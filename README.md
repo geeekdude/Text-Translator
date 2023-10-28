@@ -17,13 +17,13 @@ You can check out a live demo of the Text Translator here: [Live Demo](https://g
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/geeekdude/text-translator.git
+   git clone https://github.com/geeekdude/Text-Translator.git
    ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd text-translator
+    cd Text-Translator
     ```
 
 3. Open index.html in your web browser.
